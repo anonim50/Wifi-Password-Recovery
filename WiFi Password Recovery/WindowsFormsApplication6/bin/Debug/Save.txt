@@ -1,0 +1,584 @@
+
+SSID: KEA   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: BOSS   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: AndroidAP   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: AndroidAP   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: BOSS   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password: [ Any Radio Type ]
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password: Present
+
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:
+-----------------------------------------------------
+
+SSID: TP-LINK_50FA   
+Password:
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:
+-----------------------------------------------------
+
+SSID: KEA   
+Password: Present
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password: Present
+
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:
+-----------------------------------------------------
+
+SSID: AndroidAP   
+Password:
+-----------------------------------------------------
+
+SSID: AndroidAP   
+Password:
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:
+-----------------------------------------------------
+
+SSID: TP-LINK_50FA   
+Password:
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password: Present
+
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password: 1
+
+-----------------------------------------------------
+
+SSID: Mobartcrhhhhhis   
+Password:
+-----------------------------------------------------
+
+SSID:    
+Password:
+-----------------------------------------------------
+
+SSID:    
+Password:
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:Present
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Present
+-----------------------------------------------------
+
+SSID:           TP-LINK_50FA   
+Password:TP-LINK_50FA" is not found on the system.
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:Mobartcris on interface Wireless Network Connection 
+======================================================================= 
+
+Applied All User Profile    
+
+Profile information 
+------------------- 
+    Version                 1
+    Type                    Wireless LAN
+    Name                    Mobartcris
+    Control options         
+        Connection mode     Connect automatically
+        Network broadcast   Connect only if this network is broadcasting
+        AutoSwitch          Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs         1
+    SSID name               "Mobartcris"
+    Network type            Infrastructure
+    Radio type              [ Any Radio Type ]
+    Vendor extension           Not present
+
+Security settings 
+----------------- 
+    Authentication          WPA2-Personal
+    Cipher                  CCMP
+    Security key            Present
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet3070B611   
+Password:P-Setup-22-Deskjet3070B611" is not found on the system.
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:BOSS on interface Wireless Network Connection 
+======================================================================= 
+
+Applied All User Profile    
+
+Profile information 
+------------------- 
+    Version                 1
+    Type                    Wireless LAN
+    Name                    BOSS
+    Control options         
+        Connection mode     Connect automatically
+        Network broadcast   Connect only if this network is broadcasting
+        AutoSwitch          Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs         1
+    SSID name               "BOSS"
+    Network type            Infrastructure
+    Radio type              [ Any Radio Type ]
+    Vendor extension           Not present
+
+Security settings 
+----------------- 
+    Authentication          WPA2-Personal
+    Cipher                  CCMP
+    Security key            Present
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:CCMP
+    Security key            Present
+-----------------------------------------------------
+
+SSID:           Mobartcris   
+Password:le"Mobartcris"isnotfoundonthesystem.
+-----------------------------------------------------
+
+SSID:           KEA   
+Password:Profile "          KEA" is not found on the system.
+
+-----------------------------------------------------
+
+SSID:           BOSS   
+Password:Profile "          BOSS" is not found on the system.
+
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+Profile BOSS on interface Wireless Network Connection: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : BOSS
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "BOSS"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+
+
+-----------------------------------------------------
+
+SSID:           BOSS   
+Password:Profile "          BOSS" is not found on the system.
+
+-----------------------------------------------------
+
+SSID:           BOSS   
+Password:Profile "          BOSS" is not found on the system.
+
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+Profile BOSS on interface Wireless Network Connection: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : BOSS
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "BOSS"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+
+
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+Profile BOSS on interface Wireless Network Connection: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : BOSS
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "BOSS"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    Security key           : Present
+
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password:
+Profile KEA on interface Wireless Network Connection: 
+======================================================================= 
+
+Applied: All User Profile    
+
+Profile information 
+------------------- 
+    Version                : 1
+    Type                   : Wireless LAN
+    Name                   : KEA
+    Control options        : 
+        Connection mode    : Connect automatically
+        Network broadcast  : Connect only if this network is broadcasting
+        AutoSwitch         : Do not switch to other networks
+
+Connectivity settings 
+--------------------- 
+    Number of SSIDs        : 1
+    SSID name              : "KEA"
+    Network type           : Infrastructure
+    Radio type             : [ Any Radio Type ]
+    Vendor extension          : Not present
+
+Security settings 
+----------------- 
+    Authentication         : WPA2-Personal
+    Cipher                 : CCMP
+    FIPS mode              : Disabled
+    Security key           : Present
+
+
+-----------------------------------------------------
+
+SSID: KEA   
+Password:CCMP
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:CCMP
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password:None
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:CCMP
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:CCMP
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password:None
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Erlen Cafe on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:BOSS on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: KEA   
+Password:KEA on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: KEA   
+Password:KEA on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:Present
+-----------------------------------------------------
+
+SSID:    
+Password:is not found on the system.
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:Present
+-----------------------------------------------------
+
+SSID: KEA   
+Password:Present
+-----------------------------------------------------
+
+SSID: HTC Portable Hotspot   
+Password:Present
+-----------------------------------------------------
+
+SSID: KEA   
+Password:Present
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Present
+-----------------------------------------------------
+
+SSID: Mobartcris   
+Password:Present
+-----------------------------------------------------
+
+SSID: HP-Setup-22-Deskjet 3070 B611   
+Password:HP-Setup-22-Deskjet 3070 B611 on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Erlen Cafe on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Erlen Cafe on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: Erlen Cafe   
+Password:Erlen Cafe on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: KEA   
+Password:KEA on interface Wireless Network Connection
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:19713fordfocus18
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID:    
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:
+-----------------------------------------------------
+
+SSID: BOSS   
+Password: 19713fordfocus18
+-----------------------------------------------------
+
+SSID: BOSS   
+Password:    Key Content            
+-----------------------------------------------------
